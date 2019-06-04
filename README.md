@@ -6,15 +6,15 @@ os dois primeiros numeros representam o código da status do funcionário(01 - f
 
 Na Main do programa, programado em c++, quando compilado é mostrado ao usuário um menu em que ele poderá escolher entre as seguintes opções ao digitar os números:
 
-===========================================
---------------------Menu-------------------
+==========================================
+--------------------Menu------------------
  Digite o numero da opcao:        
  1 - funcionarios admitidos;      
  2 - funcionarios demitidos;    
  3 - funcionarios em licenca medica;      
  4 - funcionarios de ferias;     
  5 - Quantitativo de funcionarios;    
-===========================================
+==========================================
 
 Ao digitar o número 1, seram impressos na tela os nomes e as datas dos funcionários admitidos. Analogamente, nos casos 2, 3 e 4 serão impressos na tela os nomes e as datas correspondentes aos funcionários nos status deteminadas em cada opção.
 Ao digitar a opção 5, seram impressas as quantidades de funcionários que há em cada um dos quatro status.
